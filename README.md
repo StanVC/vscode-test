@@ -1,5 +1,7 @@
 # vscode-test
 
+This repo is used to reproduce a strange behaviour with Visual Studio Code tasks in a multi-root workspace
+
 To reproduce the bug
 
 1. Open my.code-workspace. It should open the workspace in VSCode
